@@ -4,7 +4,7 @@
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-228B22?style=for-the-badge&logo=datacamp&logoColor=ffdd54&labelColor=3670A0)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=ffdd54&labelColor=3670A0)
-![Web Development](https://img.shields.io/badge/Web%20Development-#B8860B?style=for-the-badge&logo=html5&logoColor=ffdd54&labelColor=3670A0)
+![Web Development](https://img.shields.io/badge/Web%20Development-B8860B?style=for-the-badge&logo=html5&logoColor=ffdd54&labelColor=3670A0)
 
 
 # 💻 Tech Stack:
