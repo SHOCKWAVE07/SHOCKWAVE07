@@ -2,9 +2,12 @@
 
 <p align="center">Passionate about Data Science, Machine Learning, and Web Development.</p>
 
-![Data Science](https://img.shields.io/badge/Data%20Science-228B22?style=for-the-badge&logo=datacamp&logoColor=ffdd54&labelColor=3670A0)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=ffdd54&labelColor=3670A0)
-![Web Development](https://img.shields.io/badge/Web%20Development-B8860B?style=for-the-badge&logo=html5&logoColor=ffdd54&labelColor=3670A0)
+<p align="center">
+    <img src="https://img.shields.io/badge/Data%20Science-228B22?style=for-the-badge&logo=datacamp&logoColor=ffdd54&labelColor=3670A0" alt="Data Science">
+    <img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=ffdd54&labelColor=3670A0" alt="Machine Learning">
+    <img src="https://img.shields.io/badge/Web%20Development-B8860B?style=for-the-badge&logo=html5&logoColor=ffdd54&labelColor=3670A0" alt="Web Development">
+</p>
+
 
 
 # 💻 Tech Stack:
