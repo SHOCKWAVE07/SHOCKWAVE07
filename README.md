@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="center">Hi there! 👋 I'm SHOCKWAVE07</h1>
 <!--
 **SHOCKWAVE07/SHOCKWAVE07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there! 👋 I'm SHOCKWAVE07</h1>
+
 <p align="center">
   <img src="https://github.com/SHOCKWAVE07/SHOCKWAVE07/blob/main/assets/data-science.png" alt="Data Science" width="200" height="200">
   <img src="https://github.com/SHOCKWAVE07/SHOCKWAVE07/blob/main/assets/machine-learning.png" alt="Machine Learning" width="200" height="200">
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning and exploring new concepts in Data Science and Machine Learning.
 - 👯 Looking to collaborate on projects related to Data Science and Web Development.
 - 💡 Passionate about building impactful and innovative solutions using cutting-edge technologies.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [your-email@example.com](mailto:varunraskar22@gmail.com)
 
 Let's connect and collaborate! Feel free to reach out to me. 😄
 
