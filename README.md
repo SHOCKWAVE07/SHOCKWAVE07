@@ -30,7 +30,7 @@
 - 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-raskar-061778201/) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-red?logo=kaggle)](https://www.kaggle.com/varunraskar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/varunraskar)
 
 
 
