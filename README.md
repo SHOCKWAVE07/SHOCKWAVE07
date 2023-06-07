@@ -1,14 +1,11 @@
 <h1 align="center">Hi there! 👋 I'm Varun</h1>
 
-
-
-<p align="center">
-  <img src="https://github.com/SHOCKWAVE07/SHOCKWAVE07/blob/main/assets/data-science.png" alt="Data Science" width="200" height="200">
-  <img src="https://github.com/SHOCKWAVE07/SHOCKWAVE07/blob/main/assets/machine-learning.png" alt="Machine Learning" width="200" height="200">
-  <img src="https://github.com/SHOCKWAVE07/SHOCKWAVE07/blob/main/assets/web-development.png" alt="Web Development" width="200" height="200">
-</p>
-
 <p align="center">Passionate about Data Science, Machine Learning, and Web Development.</p>
+
+[![Data Science](https://img.shields.io/badge/Data%20Science-%230077B5.svg?logo=datacamp&logoColor=white)](https://github.com/SHOCKWAVE07)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%230077B5.svg?logo=scikit-learn&logoColor=white)](https://github.com/SHOCKWAVE07)
+[![Web Development](https://img.shields.io/badge/Web%20Development-%230077B5.svg?logo=html5&logoColor=white)](https://github.com/SHOCKWAVE07)
+
 
 # 💻 Tech Stack:
 
@@ -27,7 +24,7 @@
 - 🤔 I’m looking for help with Data Pipelining
 - 💡 Passionate about building impactful and innovative solutions using cutting-edge technologies.
 - 📫 How to reach me: [varunraskar22@gmail.com](mailto:varunraskar22@gmail.com)
-- 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-raskar-061778201/) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/varunraskar)
