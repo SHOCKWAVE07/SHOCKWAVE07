@@ -22,13 +22,11 @@
 - 👯 Looking to collaborate on projects related to Full Stack Data Science Project.
 - 🤔 I’m looking for help with Data Pipelining
 - 💡 Passionate about building impactful and innovative solutions using cutting-edge technologies.
-
 - 📫 How to reach me: [varunraskar22@gmail.com](mailto:varunraskar22@gmail.com)
-
-Here are some ideas to get you started:
+- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-raskar-061778201/) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20Master-green)](https://www.kaggle.com/varunraskar)
+[![Kaggle](https://img.shields.io/badge/Kaggle--blue)](https://www.kaggle.com/varunraskar)
 
 
 - 🔭 I’m currently working on ...
@@ -42,7 +40,9 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalken32&theme=radical)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalken32&show_icons=true&locale=en&layout=compact" alt="pranjalken32" /></p>
+
 # 💻 Tech Stack:
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
