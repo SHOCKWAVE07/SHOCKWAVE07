@@ -21,8 +21,6 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C5996?style=for-the-badge&logo=scipy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pickle](https://img.shields.io/badge/Pickle-%238A9EB3?style=for-the-badge&logo=pickle&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%23739B9B?style=for-the-badge&logo=seaborn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
