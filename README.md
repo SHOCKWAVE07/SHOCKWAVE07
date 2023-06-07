@@ -2,9 +2,10 @@
 
 <p align="center">Passionate about Data Science, Machine Learning, and Web Development.</p>
 
-[![Data Science](https://img.shields.io/badge/Data%20Science-3670A0?style=for-the-badge&logo=datacamp&logoColor=ffdd54)](https://github.com/SHOCKWAVE07)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3670A0?style=for-the-badge&logo=scikit-learn&logoColor=ffdd54)](https://github.com/SHOCKWAVE07)
-[![Web Development](https://img.shields.io/badge/Web%20Development-3670A0?style=for-the-badge&logo=html5&logoColor=ffdd54)](https://github.com/SHOCKWAVE07)
+[![Data Science](https://img.shields.io/badge/Data%20Science-3670A0?style=for-the-badge&logo=datacamp&logoColor=ffdd54&labelColor=3670A0)]
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3670A0?style=for-the-badge&logo=scikit-learn&logoColor=ffdd54&labelColor=3670A0)]
+[![Web Development](https://img.shields.io/badge/Web%20Development-3670A0?style=for-the-badge&logo=html5&logoColor=ffdd54&labelColor=3670A0)]
+
 
 # 💻 Tech Stack:
 
