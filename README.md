@@ -22,7 +22,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- 🌱 Currently learning and exploring new concepts in Data Science and Machine Learning.
+- 🌱 Currently learning and exploring new concepts in Data Science and MLOps.
 - 👯 Looking to collaborate on projects related to Full Stack Data Science Project.
 - 🤔 I’m looking for help with Data Pipelining
 - 💡 Passionate about building impactful and innovative solutions using cutting-edge technologies.
