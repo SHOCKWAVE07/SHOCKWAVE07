@@ -10,8 +10,6 @@
 
 <p align="center">Passionate about Data Science, Machine Learning, and Web Development.</p>
 
-<h3 align="center">Tech Stack</h3>
-
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -32,7 +30,7 @@
 - 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-raskar-061778201/) 
-[![Kaggle](https://img.shields.io/badge/Kaggle--blue)](https://www.kaggle.com/varunraskar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-red?logo=kaggle)](https://www.kaggle.com/varunraskar)
 
 
 
