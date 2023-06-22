@@ -6,8 +6,14 @@
     <img src="https://img.shields.io/badge/Data%20Science-228B22?style=for-the-badge&logo=datacamp&logoColor=ffdd54&labelColor=3670A0" alt="Data Science">
     <img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=ffdd54&labelColor=3670A0" alt="Machine Learning">
     <img src="https://img.shields.io/badge/Web%20Development-B8860B?style=for-the-badge&logo=html5&logoColor=ffdd54&labelColor=3670A0" alt="Web Development">
+
+    [![Data Science](https://img.shields.io/badge/Data%20Science-F37626?style=for-the-badge&logo=datacamp&logoColor=white)](https://en.wikipedia.org/wiki/Data_science)
+    [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
+
 </p>
 
+[![Web Development](https://img.shields.io/badge/Web%20Development-1572B6?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/Web_development)
+[![Cloud Services](https://img.shields.io/badge/Cloud%20Services-0089D6?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 
 ## 💻 Tech Stack:
