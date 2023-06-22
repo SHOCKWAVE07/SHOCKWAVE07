@@ -11,8 +11,8 @@
 
 
 ## 💻 Tech Stack:
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Azure Web Apps](https://img.shields.io/badge/Azure%20Web%20Apps-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Web Apps](https://img.shields.io/badge/Azure%20Web%20Apps-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
