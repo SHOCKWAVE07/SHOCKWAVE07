@@ -53,6 +53,7 @@
 ![Azure Web Apps](https://img.shields.io/badge/Azure%20Web%20Apps-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Elastic BeanStalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23232F3E?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 
 
