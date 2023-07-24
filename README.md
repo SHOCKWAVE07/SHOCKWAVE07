@@ -25,7 +25,7 @@
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 <h3>Data Science</h3>
 
@@ -33,14 +33,14 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C5996?style=for-the-badge&logo=scipy&logoColor=white)
-[![matplotlib](https://img.shields.io/badge/matplotlib-EE4C2C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
-[![seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/matplotlib-EE4C2C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
 
 <h3>Web Development</h3>
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2314BDBF?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-%23B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja-%23B41717?style=for-the-badge&logo=jinja&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -62,7 +62,7 @@
 
 
 
-<h3>Other Esstntials</h3>
+<h3>Other Esstentials</h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
