@@ -26,6 +26,8 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![MLflow](https://img.shields.io/badge/MLflow-%23007C8C?style=for-the-badge&logo=mlflow&logoColor=white)
+
 
 <h3>Data Science</h3>
 
