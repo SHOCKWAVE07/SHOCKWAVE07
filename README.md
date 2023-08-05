@@ -50,7 +50,7 @@
 
 <h3>Cloud Serives</h3>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Black_and_White?style=for-the-badge&logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=github-actions)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br>
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
