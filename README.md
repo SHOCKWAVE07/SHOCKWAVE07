@@ -51,7 +51,7 @@
 <h3>Cloud Serives</h3>
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Workflow_Name-%232496ED?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232496ED?style=for-the-badge&logo=github-actions&logoColor=white)
 <br>
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Web Apps](https://img.shields.io/badge/Azure%20Web%20Apps-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
